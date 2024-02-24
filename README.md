@@ -12,7 +12,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-<h3 align="center">Wikipedia-Search-Tool</h3>
+<h3 align="center">Wikipedia-Search-Tool - DISCONTINUED - This repository will not receive new updates.</h3>
 
   <p align="center">
     A simple python script that searches for wikipedia summaries of certain questions, things or persons.
